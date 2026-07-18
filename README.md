@@ -40,12 +40,11 @@ README.md                  You are here
 
 ## Who made this
 
-Hi, I'm AMA (Ann Marie Almariei). Partner & Creative Orchestrator at [Sageworx](https://www.sageworx.com/members/ann-marie-almariei), 20+ years in creative and content strategy, currently building with AI every day. I made this skill because I write for a living and refuse to ship copy that sounds like a robot.
+Hi, I'm AMA (Ann Marie Almariei). Partner & Creative Orchestrator at [Sageworx](https://www.sageworx.com/members/ann-marie-almariei), 20+ years in creative and content strategy, currently building with AI every day. I made this skill because I write a lot of content for myself and clients and refuse to ship copy that sounds like a robot.
 
 - Website: [workwithAMA.io](https://www.workwithama.io)
 - X: [@amalmariei](https://x.com/amalmariei)
 - LinkedIn: [Ann Marie Almariei](https://www.linkedin.com/in/annmariealmariei/)
-- Instagram: [@amalmariei](https://www.instagram.com/amalmariei/)
 
 ## Credit
 
