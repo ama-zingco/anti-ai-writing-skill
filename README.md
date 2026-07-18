@@ -40,7 +40,7 @@ README.md                  You are here
 
 ## Who made this
 
-Hi, I'm AMA (Ann Marie Almariei). Partner & Creative Orchestrator at [Sageworx](https://www.sageworx.com/members/ann-marie-almariei), 20+ years in creative and content strategy, currently building with AI every day. I made this skill because I write a lot of content for myself and clients and refuse to ship copy that sounds like a robot.
+Hi, I'm AMA (Ann Marie Almariei). Partner & Creative Orchestrator at [Sageworx](https://www.sageworx.com/members/ann-marie-almariei), Community & Programming Lead at [The Vibe Marketer](https://www.thevibemarketer.com/), 20+ years in creative and content strategy, currently building with AI every day. I made this skill because I write a lot of content for myself and clients and refuse to ship copy that sounds like an LLM.
 
 - Website: [workwithAMA.io](https://www.workwithama.io)
 - X: [@amalmariei](https://x.com/amalmariei)
